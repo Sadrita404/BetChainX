@@ -16,6 +16,30 @@ Turn your gameplay into crypto! **BetChainX** is a fully decentralized applicati
 💌 **Social Connectivity:** Invite friends via wallet ping and share achievements.
 
 ---
+
+# Smart Contract Address
+
+https://celo-alfajores.blockscout.com/address/0x85a41393906559E1e8F4388a0f828b25393ae01
+
+```
+0x85a41393906559E1e8F4388a0f828b25393ae01D
+
+```
+
+https://celo-alfajores.blockscout.com/address/0xf33A29F9E5Afa08d22F559A08A6f581FD6ed449A
+
+```
+0xf33A29F9E5Afa08d22F559A08A6f581FD6ed449A
+```
+
+https://celo-alfajores.blockscout.com/address/0x8550986BeA19Ac8d9bdF6806C33139894cc52741
+
+```
+0x8550986BeA19Ac8d9bdF6806C33139894cc52741
+```
+
+
+---
 **Project Demo**
 
 
