@@ -19,7 +19,7 @@ Turn your gameplay into crypto! **BetChainX** is a fully decentralized applicati
 **Project Demo**
 
 
-https://drive.google.com/file/d/1kpx932dG3bnsGIY3yVk79dsHSYCHAqry/view?usp=sharing
+[https://drive.google.com/file/d/1kpx932dG3bnsGIY3yVk79dsHSYCHAqry/view?usp=sharing](https://drive.google.com/drive/folders/1EpvFlDzOOCj7UNiGNRY5Wc7_E3cdeT_J?usp=sharing)
 
 ---
 🎯 **How It Works**
