@@ -144,6 +144,15 @@ Your wallet should now be connected, and private key configured for testnet tran
 <img width="578" height="301" alt="Screenshot 2025-10-26 at 5 28 33 AM" src="https://github.com/user-attachments/assets/88dfb9a0-bfb6-431e-8da2-23d38e5dd410" />
 
 ---
+# Work Flow 
+
+<img width="311" height="330" alt="Screenshot 2025-10-26 at 9 02 18 AM" src="https://github.com/user-attachments/assets/0643989a-7695-4db7-8662-f7843546f122" />
+
+
+
+---
+
+
 🎨 **Design Philosophy**
 - Vibrant, game-focused UI with clear visual feedback
 - Smooth animations for scores, rewards, and NFTs
