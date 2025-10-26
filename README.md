@@ -16,7 +16,12 @@ Turn your gameplay into crypto! **BetChainX** is a fully decentralized applicati
 💌 **Social Connectivity:** Invite friends via wallet ping and share achievements.
 
 ---
+**Project Demo**
 
+
+https://drive.google.com/file/d/1kpx932dG3bnsGIY3yVk79dsHSYCHAqry/view?usp=sharing
+
+---
 🎯 **How It Works**
 
 1. Connect your wallet (MetaMask, WalletConnect, or compatible).  
